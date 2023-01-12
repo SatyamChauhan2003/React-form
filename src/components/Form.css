@@ -1,0 +1,33 @@
+.main {
+  margin-left: 20%;
+  margin-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 70%;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+img {
+  margin-left: 40%;
+}
+
+input {
+  margin-left: 10%;
+  width: 90%;
+  border-radius: 15px;
+  border: none;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+input[type="button"] {
+  background-color: rgb(157, 36, 36);
+  color: white;
+}
+
+h6 {
+  margin-left: 60%;
+  margin-top: 15px;
+  color: brown;
+}
